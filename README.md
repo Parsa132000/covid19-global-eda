@@ -21,3 +21,11 @@ This project is built entirely in Python using tools like `pandas`, `matplotlib`
 
 ## 📁 Project Structure
 
+covid19-global-eda/
+├── covid19-global-eda.ipynb    # Main Colab notebook for COVID-19 analysis
+├── scripts/                     # Python helper scripts (loading, plotting, predicting)                    
+├── requirements.txt             # Python dependencies for local or Streamlit use
+├── LICENSE                      # MIT License
+└── README.md                    # Project overview and documentation
+
+
